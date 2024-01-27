@@ -1,0 +1,28 @@
+.heading
+{
+    font-size: 30px;
+    text-align: center;
+    background-color:grey;
+    line-height: 2;
+    width: 100%;
+}
+
+.head
+{
+    font-size: 17px;
+    text-align: center;
+    background-color:rgb(173, 171, 171);
+    line-height: 1;
+    width: 100%;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: white;
+    background-color: rgb(255, 0, 0);
+    line-height: 3;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
